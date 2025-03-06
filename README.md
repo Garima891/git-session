@@ -1,3 +1,3 @@
 # git-session
-empty repository for git session
+This is my first git repository 
 Author - Garima Bule
